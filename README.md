@@ -1,2 +1,1 @@
-# Sell-Vintage
-Sell Vintage Front End
+FrontEnd Part of the Online Shop for Vintage & HandCrafted Items
